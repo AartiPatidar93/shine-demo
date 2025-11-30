@@ -1,4 +1,4 @@
 # shine-demo
 This is my first repository.
 <br>
-Author - Aarti Patidar
+Author - Aarti (Shine)
